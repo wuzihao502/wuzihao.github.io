@@ -1,6 +1,32 @@
   <html>
-    <body
-          <table>
+    <body>
+         <table border="1" align="center" cellpadding="10" width="800">
+           <tr>
+    <th colspan="7" bgcolor="aliceblue" >我的个人简介</th>
+</tr>
+
+<tr>
+    <th>姓名:</th>
+    <td> 武子豪</td>
+    <th>年龄:</th>
+    <td>19</td>
+    <th>民族:</th>
+    <td>汉</td>
+</tr>
+
+<tr>
+    <th>出生:</th>
+    <td>20010820</td>
+    <th>政治面貌:</th>
+    <td>共青团员</td>
+    <th>学历:</th>
+    <td>本科</td>
+</tr>
+
+<tr>
+    <th>专业:</th>
+    <td>工业设计</td>
+    <th>毕业学校:</th>
    <td>南京理工大学</td>
     <th>邮编:</th>
     <td>210094</td>
